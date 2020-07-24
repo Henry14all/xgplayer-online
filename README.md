@@ -1,2 +1,2 @@
 # xgplayer-online
-基于xgplayer的在线链接视频播放网页
+这个分支用于存储网页所需的调用文件
